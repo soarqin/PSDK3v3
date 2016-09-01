@@ -23,8 +23,8 @@ dependency_libs=' -L/usr/local/vitasdk/arm-vita-eabi/lib -lz -lm'
 weak_library_names=''
 
 # Version information for libpng16.
-current=36
-age=20
+current=41
+age=25
 revision=0
 
 # Is this an already installed library?
